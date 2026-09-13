@@ -20,7 +20,7 @@ const WEBSITE_PIN = "1111";              // ← GANTI PIN
    2. NAMA PENERIMA
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nama yang muncul di halaman utama (hero).                      */
-const RECIPIENT_NAME = "Nabila";           // ← GANTI NAMA
+const RECIPIENT_NAME = "Choi-Jiwoo";           // ← GANTI NAMA
 
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -31,8 +31,8 @@ const RECIPIENT_NAME = "Nabila";           // ← GANTI NAMA
    Lalu ganti judul dan nama artis di bawah ini.                  */
 const MUSIC_TRACKS = [
   {
-    title:  "INI ABADI",             // ← GANTI JUDUL LAGU
-    artist: "PERUNGGU",                   // ← GANTI NAMA ARTIS
+    title:  "HARI ULANG TAHUN MU",             // ← GANTI JUDUL LAGU
+    artist: "RISKY DN",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
     startTime: 0,                           // ← MULAI DARI DETIK KE BERAPA
@@ -127,7 +127,7 @@ const WISHES = [
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nomor WA untuk membalas pesan setelah lilin ditiup.
    Gunakan format internasional tanpa tanda + (contoh: 62812...) */
-const WHATSAPP_NUMBER = "6281234567890";   // ← GANTI NOMOR WA YANG ORDER
+const WHATSAPP_NUMBER = "6283119847840";   // ← GANTI NOMOR WA YANG ORDER
 const WHATSAPP_MESSAGE = "heyy i just opened the bottle, tysm for making my day so much better! ✨"; // ← GANTI PESAN OTOMATIS
 
 window.OCEAN_SETTINGS = {
