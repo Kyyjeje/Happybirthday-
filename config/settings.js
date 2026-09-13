@@ -20,7 +20,7 @@ const WEBSITE_PIN = "1111";              // ← GANTI PIN
    2. NAMA PENERIMA
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nama yang muncul di halaman utama (hero).                      */
-const RECIPIENT_NAME = "Choi-Jiwoo";           // ← GANTI NAMA
+const RECIPIENT_NAME = "ChoiJiwoo";           // ← GANTI NAMA
 
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
